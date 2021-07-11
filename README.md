@@ -11,3 +11,6 @@ Method 1:
 
 Method 2:
 Clone the repository and upload the code onto processing, and then update the image/sound import codes
+
+
+To view the animation without running the program, click this link: https://drive.google.com/file/d/15GzpqDpcB2U-Aw5nbN50Odsbqdb1QlUC/view?usp=sharing
